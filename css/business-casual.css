@@ -64,3 +64,14 @@ hr.divider {
 .map-container iframe.clicked {
   pointer-events: auto;
 }
+
+.icon{
+  width: 30px;
+  height: 30px;
+}
+
+.button-icon{
+  background: none;
+  padding: 0px;
+  border: none;
+}
